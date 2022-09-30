@@ -12,8 +12,7 @@ patches and features.
 ## Using the issue tracker
 
 The issue tracker is the preferred channel for [bug reports](#bugs),
-[features requests](#features) and [submitting pull
-requests](#pull-requests), but please respect the following restrictions:
+[features requests](#features), but please respect the following restrictions:
 
 * Please **do not** use the issue tracker for personal support requests
 
